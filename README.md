@@ -1,0 +1,2 @@
+Am einfachsten ist es, auf einem Windows-PC in ein Verzeichnis "C:\Software_PC" zu klonen, so dass "C:\Software_PC\iofly-updater\Update_iO-Fly.pro" entsteht. 
+Dann funktioniert alles mit der "Update_iO-Fly.pro.user"
